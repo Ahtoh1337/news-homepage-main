@@ -1,0 +1,15 @@
+{
+  "name": "news-homepage-main",
+  "version": "1.0.0",
+  "description": "frontendmentor.io challenge",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.67.0",
+    "vite": "^4.4.9"
+  }
+}
